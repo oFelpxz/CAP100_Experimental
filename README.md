@@ -29,6 +29,6 @@ Com ela, você cria views inteligentes.
 CDS é a ferramenta para modelar os dados, e o model-based approach é a filosofia que usa esses modelos como base para gerar todo o sistema.
 
 **Commands**
----------|----------
-`cds watch` | Monitora o projeto em tempo real.
-`cds compile` | Compila o CDS para outro formato como SQL.
+
+*cds watch* | Monitora o projeto em tempo real.
+*cds compile* | Compila o CDS para algo como SQL.
