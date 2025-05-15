@@ -31,4 +31,5 @@ CDS é a ferramenta para modelar os dados, e o model-based approach é a filosof
 **Commands**
 
 *cds watch* - Monitora o projeto em tempo real.
+
 *cds compile* - Compila o CDS para algo como SQL.
