@@ -1,8 +1,8 @@
 # Getting Started
 
-Welcome to your new project.
+Welcome to my training project.
 
-It contains these folders and files, following our recommended project layout:
+Project Layout:
 
 File or Folder | Purpose
 ---------|----------
@@ -13,13 +13,23 @@ File or Folder | Purpose
 `readme.md` | this getting started guide
 
 
-## Next Steps
+# Topics
 
-- Open a new terminal and run `cds watch`
-- (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
-- Start adding content, for example, a [db/schema.cds](db/schema.cds).
+## Defining Domain Models
 
+**O que é CDS?**
 
-## Learn More
+CDS é uma linguagem usada no SAP para definir modelos de dados de forma clara e reutilizável.
+Com ela, você cria views inteligentes.
 
-Learn more at https://cap.cloud.sap/docs/get-started/.
+**O que é Model Aproach?**
+
+É uma forma de desenvolvimento que você começa pelo modelo de dados.
+
+CDS é a ferramenta para modelar os dados, e o model-based approach é a filosofia que usa esses modelos como base para gerar todo o sistema.
+
+---------|----------
+**Commands**
+
+`cds watch` | Monitora o projeto em tempo real.
+`cds compile` | Compila o CDS para outro formato como SQL.
